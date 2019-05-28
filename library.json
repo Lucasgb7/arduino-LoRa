@@ -1,4 +1,6 @@
 {
 	"name": "Univali_LoRa",
-	"version": "0.0.0"
+	"version": "0.0.0",
+	"keywords": "LoRa, IOT",
+	"description": "LoRa Univali Project"
 }
