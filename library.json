@@ -1,12 +1,12 @@
 {
-	"name": "Univali_LoRa",
-	"authors": [
-		{
-			"name": "Lucas Cunha",
-			"email": "lucas_cunha@edu.univali.br",
-		}
-	],
-	"version": "0.0.0",
-	"keywords": "LoRa, IOT",
-	"description": "LoRa Univali Project"
+    "name": "Univali_LoRa",
+    "keywords": "lora, iot, univali",
+    "description": "Research project from Univali",
+    "authors":
+    {
+        "name": "Lucas Cunha",
+        "email": "lucas_cunha@edu.univali.br"
+    },
+    "version": "0.0.0",
+    "frameworks": "arduino"
 }
